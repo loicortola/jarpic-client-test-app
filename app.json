@@ -1,0 +1,6 @@
+{
+  "name": "Jarpic test backend mock",
+  "description": "Mocked JSON RPC 2.0 server for test validation",
+  "repository": "https://github.com/loicortola/jarpic-client",
+  "keywords": ["json", "rpc", "server", "client"]
+}
